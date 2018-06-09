@@ -21,22 +21,3 @@ and for the further test classes also.
 last changes should be imported.
 # How to run my tests via command line
 
-## Steps
-#### Download and install Intellij Idea
-1. Go to [Jetbrains.com](https://www.jetbrains.com/idea/download/#section=windows)
-2. Choose Community version
-3. Download and install the file
-#### Download and install JDK
-1. Go to [oracle.com](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-2. 'Download' tab should be selected
-3. Click on 'Java Platform (JDK) 10'
-4. Download 'jdk-10.0.1_windows-x64_bin.exe' file
-(be sure what OS and bit you use)
-#### Download and install 
-  `ast version of Firefox browser
-#### Open Intellij Idea
-1. Choose UI theme
-2. Skip 'remaining and set defaults'
-3. Click on 'Create new project'
-4. Project SDK: choose JDK file
-5. Give a 'project name' and pay attention to 'project location'
